@@ -1,0 +1,10 @@
+Write a {TYPE} in markdown must include a table of contents in circle bullet of at least {WORDS} words on {TOPIC}.
+Each section must contain 1-2 paragraphs.
+Give references in markdown format with numbred bullet.
+Add our links heading in last and add {LINKS} as given below.
+Examples
+[Facebook](https://facebook.com)
+[Twitter](https://Twitter.com)
+[Linkedin](https://Linkedin.com)
+[Youtube](https://Youtube.com)
+[other]((https://other.com))
